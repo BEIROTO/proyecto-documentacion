@@ -16,6 +16,13 @@ y recursos adicionales.
 
 - Frontend
 
+- [HTML básico](frontend/frontend-html-basico.md)
+
+- [CSS avanzado](frontend/frontend-css-avanzado.md)
+
+- [JavaScript moderno](frontend/frontend-javascript-moderno.md)
+
+- [Frameworks frontend](frontend/frontend-frameworks.md)
 - Backend
 
 - Recursos
