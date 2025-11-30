@@ -30,3 +30,5 @@ y recursos adicionales.
 
 Cualquier mejora o corrección es bienvenida.
 
+Este documento será mantenido por el equipo de backend.
+
