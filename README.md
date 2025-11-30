@@ -17,5 +17,7 @@ y recursos adicionales.
 - Frontend
 
 - Backend
+## Contribuciones
 
+Este documento será mantenido por el equipo de backend.
 - Recursos
