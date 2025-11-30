@@ -26,3 +26,7 @@ y recursos adicionales.
 - Backend
 
 - Recursos
+## Contribuciones
+
+Cualquier mejora o corrección es bienvenida.
+
